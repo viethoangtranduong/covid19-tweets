@@ -10,14 +10,10 @@ Related blog posts:
 Vectorization & embeddings files: https://drive.google.com/drive/folders/1-fXjWMfDaszuYORNCa28GkUW0Pj-schC?usp=sharing
 
 
-This is the project for analyzing covid tweets: by Dennis, Hoang, Steven, and Vu.
-
-Reach out at: 
-
-Dennis: https://www.linkedin.com/public-profile/in/dennis-antela-martinez
-
-Hoang: https://www.linkedin.com/in/viethoangtranduong/
-
-Steven: https://www.linkedin.com/in/steventey
-
-Vu: https://www.linkedin.com/in/vuluong
+This is the project for analyzing covid tweets: by Dennis, Hoang, Steven, and Vu. \n
+Reach out at:  \n
+Dennis: https://www.linkedin.com/public-profile/in/dennis-antela-martinez \n
+Hoang: https://www.linkedin.com/in/viethoangtranduong/   \n
+Steven: https://www.linkedin.com/in/steventey   \n
+Vu: https://www.linkedin.com/in/vuluong 
+ 
