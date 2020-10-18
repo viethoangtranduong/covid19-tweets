@@ -1,0 +1,11 @@
+seaborn==0.11.0
+langdetect
+geopy
+nltk
+wordcloud
+seaborn==0.11.0
+nltk==3.5
+langdetect==1.0.8
+dask
+geopy==2.0.0
+nltk==3.5
