@@ -11,8 +11,13 @@ Vectorization & embeddings files: https://drive.google.com/drive/folders/1-fXjWM
 
 
 This is the project for analyzing covid tweets: by Dennis, Hoang, Steven, and Vu.
+
 Reach out at: 
+
 Dennis: https://www.linkedin.com/public-profile/in/dennis-antela-martinez
+
 Hoang: https://www.linkedin.com/in/viethoangtranduong/
+
 Steven: https://www.linkedin.com/in/steventey
+
 Vu: https://www.linkedin.com/in/vuluong
